@@ -1,0 +1,5 @@
+C:\Users\rushikesh\Desktop\Day  Submission\SecurityUserManager\SecureUserManager.Tests\obj\Debug\net48\SecureUserManager.Tests.csproj.AssemblyReference.cache
+C:\Users\rushikesh\Desktop\Day  Submission\SecurityUserManager\SecureUserManager.Tests\obj\Debug\net48\SecureUserManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushikesh\Desktop\Day  Submission\SecurityUserManager\SecureUserManager.Tests\obj\Debug\net48\SecureUserManager.Tests.AssemblyInfoInputs.cache
+C:\Users\rushikesh\Desktop\Day  Submission\SecurityUserManager\SecureUserManager.Tests\obj\Debug\net48\SecureUserManager.Tests.AssemblyInfo.cs
+C:\Users\rushikesh\Desktop\Day  Submission\SecurityUserManager\SecureUserManager.Tests\obj\Debug\net48\SecureUserManager.Tests.csproj.CoreCompileInputs.cache

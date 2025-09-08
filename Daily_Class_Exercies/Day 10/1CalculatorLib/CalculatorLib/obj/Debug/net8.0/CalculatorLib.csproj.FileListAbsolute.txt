@@ -1,0 +1,11 @@
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\bin\Debug\net8.0\CalculatorLib.deps.json
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\bin\Debug\net8.0\CalculatorLib.dll
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\bin\Debug\net8.0\CalculatorLib.pdb
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.dll
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\refint\CalculatorLib.dll
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\CalculatorLib.pdb
+C:\Users\rushikesh\Desktop\Day  Submission\CalculatorLib\CalculatorLib\obj\Debug\net8.0\ref\CalculatorLib.dll

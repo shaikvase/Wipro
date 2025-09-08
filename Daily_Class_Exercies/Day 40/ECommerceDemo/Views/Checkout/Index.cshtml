@@ -1,0 +1,41 @@
+@model ECommerceDemo.Models.CheckoutModel
+@{
+    Layout = "_Layout";
+}
+<h3 class="mb-3">Checkout</h3>
+<form asp-action="Index" method="post" novalidate class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger small"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger small"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="City" class="form-label"></label>
+        <input asp-for="City" class="form-control" />
+        <span asp-validation-for="City" class="text-danger small"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="State" class="form-label"></label>
+        <input asp-for="State" class="form-control" />
+        <span asp-validation-for="State" class="text-danger small"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Country" class="form-label"></label>
+        <input asp-for="Country" class="form-control" />
+        <span asp-validation-for="Country" class="text-danger small"></span>
+    </div>
+
+    <div class="col-12 d-flex gap-2">
+        <a class="btn btn-outline-secondary" href="@Url.Action("Index","Home")">Go to Home</a>
+        <button type="submit" class="btn btn-primary">Place Order</button>
+    </div>
+</form>
+
+@section Scripts{
+    <partial name="~/Views/Shared/_ValidationScriptsPartial.cshtml" />
+}

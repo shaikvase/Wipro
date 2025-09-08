@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\middleware\\middleware\\middleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|solutionrelative:middleware\\middleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\middleware\\middleware\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|solutionrelative:middleware\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\middleware\\middleware\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|solutionrelative:middleware\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\middleware\\middleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F70114A4-8948-40FF-B157-126C2BAF977D}|Middleware\\Middleware.csproj|solutionrelative:middleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "Middleware\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\script.js",
+              "RelativeToolTip": "Middleware\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-29T11:53:10.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "Middleware\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\style.css",
+              "RelativeToolTip": "Middleware\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T11:52:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Middleware\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\wwwroot\\index.html",
+              "RelativeToolTip": "Middleware\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-29T11:51:20.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Middleware",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\Middleware.csproj",
+              "RelativeDocumentMoniker": "Middleware\\Middleware.csproj",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\Middleware\\Middleware\\Middleware.csproj",
+              "RelativeToolTip": "Middleware\\Middleware.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T11:48:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

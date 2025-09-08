@@ -1,0 +1,85 @@
+<div *ngIf="data.option === 'delete'">
+  <h1 mat-dialog-title>Delete Post</h1>
+  <div mat-dialog-content>Would you like to delete post?</div>
+  <div mat-dialog-actions>
+    <button mat-button mat-dialog-close cdkFocusInitial>Cancel</button>
+    <button mat-button mat-dialog-close [mat-dialog-close]="true">Yes</button>
+  </div>
+</div>
+
+<div *ngIf="data.option==='edit'">
+  <h1 mat-dialog-title>Edit Post</h1>
+  <div mat-dialog-content>
+    <form class="example-form" [formGroup]="myForm" style="padding-top: 20px;">
+      <div>
+        <div>
+        <mat-form-field class="example-full-width" appearance="outline">
+          <mat-label>Title</mat-label>
+          <input
+            matInput
+            type="text"
+            placeholder="Enter the Title"
+            formControlName="title"
+            autocomplete="off"
+          />
+          <mat-hint style="color: red; margin-left: -10px;"
+            *ngIf="
+              myForm.get('title')?.errors &&
+              myForm.get('title')?.hasError('required') &&
+              myForm.get('title')?.touched
+            "
+            >Title is required</mat-hint
+          >
+        </mat-form-field>
+        </div>
+        <div>
+        <mat-form-field class="example-full-width" appearance="outline">
+          <mat-label>Content</mat-label>
+          <input
+            matInput
+            #message
+            maxlength="230"
+            placeholder="Enter the Content"
+            formControlName="content"
+            autocomplete="off"
+          />
+          <mat-hint align="end">{{ message.value.length }} / 230</mat-hint>
+          <mat-hint
+            style="color: red; margin-left: -10px"
+            *ngIf="
+              myForm.get('content')?.errors &&
+              myForm.get('content')?.hasError('required') &&
+              myForm.get('content')?.touched
+            "
+            >Content is required</mat-hint
+          >
+        </mat-form-field>
+        </div>
+        <div>
+        <mat-form-field class="example-full-width" appearance="outline">
+          <mat-label>Author By</mat-label>
+          <input
+            matInput
+            type="text"
+            placeholder="Enter your name"
+            formControlName="name"
+            autocomplete="off"
+          />
+          <mat-hint style="color: red; margin-left: -10px;"
+            *ngIf="
+              myForm.get('name')?.errors &&
+              myForm.get('name')?.hasError('required') &&
+              myForm.get('name')?.touched
+            "
+            >Author Name is required</mat-hint
+          >
+        </mat-form-field>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-button mat-dialog-close cdkFocusInitial>Cancel</button>
+    <button mat-button mat-dialog-close (click)="onEditPost()" [disabled]="myForm.invalid" [mat-dialog-close]="true">Edit</button>
+  </div>
+</div>

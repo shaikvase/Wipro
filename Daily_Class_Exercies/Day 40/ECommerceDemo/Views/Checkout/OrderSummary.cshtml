@@ -1,0 +1,45 @@
+@model ECommerceDemo.Models.Order
+@{
+    Layout = "_Layout";
+}
+<h3 class="mb-3">Order Placed</h3>
+<div class="alert alert-success">
+    <strong>Success!</strong> Your order <b>@Model.OrderId</b> was placed on @Model.PlacedAt.ToLocalTime().
+</div>
+
+<h5 class="mt-4">Items</h5>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Product</th><th>Qty</th><th>Price</th><th>Line Total</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var i in Model.Items)
+    {
+        <tr>
+            <td>@i.Name</td>
+            <td>@i.Quantity</td>
+            <td>₹ @i.Price</td>
+            <td>₹ @(i.Price * i.Quantity)</td>
+        </tr>
+    }
+    </tbody>
+    <tfoot>
+        <tr class="fw-semibold">
+            <td colspan="3" class="text-end">Total</td>
+            <td>₹ @Model.Total</td>
+        </tr>
+    </tfoot>
+</table>
+
+<h5 class="mt-4">Shipping Details</h5>
+<ul class="list-unstyled">
+    <li><b>Name:</b> @Model.Name</li>
+    <li><b>Email:</b> @Model.Email</li>
+    <li><b>City:</b> @Model.City</li>
+    <li><b>State:</b> @Model.State</li>
+    <li><b>Country:</b> @Model.Country</li>
+</ul>
+
+<a class="btn btn-primary" href="@Url.Action("Index","Home")">Go to Home</a>

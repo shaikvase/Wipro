@@ -1,0 +1,24 @@
+<div>
+  <div>
+    <mat-toolbar>
+      <span>ReadPost</span>
+      <span class="example-spacer"></span>
+      <button
+        mat-raised-button
+        class="example-icon"
+        (click)="connectMe()"
+        aria-label="Example icon-button with share icon"
+      >
+        Connect
+      </button>
+    </mat-toolbar>
+  </div>
+  <div class="addP">
+    <button mat-raised-button color="primary" (click)="onAddPost()">
+      Add Post
+    </button>
+  </div>
+  <div>
+    <app-show-post></app-show-post>
+  </div>
+</div>

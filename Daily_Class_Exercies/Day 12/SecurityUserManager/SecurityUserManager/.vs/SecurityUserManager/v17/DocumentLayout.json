@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\SecurityUserManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|s:\\securityusermanager\\secureusermanager.tests\\secureusermanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|solutionrelative:secureusermanager.tests\\secureusermanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SecurityUserManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|s:\\securityusermanager\\secureusermanager.tests\\secureusermanager.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|solutionrelative:secureusermanager.tests\\secureusermanager.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|s:\\securityusermanager\\secureusermanager.tests\\passwordhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|solutionrelative:secureusermanager.tests\\passwordhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|S:\\SecurityUserManager\\securityusermanager\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|solutionrelative:securityusermanager\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|S:\\SecurityUserManager\\securityusermanager\\models\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|solutionrelative:securityusermanager\\models\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|S:\\SecurityUserManager\\securityusermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|solutionrelative:securityusermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|S:\\SecurityUserManager\\securityusermanager\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|solutionrelative:securityusermanager\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|s:\\securityusermanager\\secureusermanager.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7196EA-C47E-4467-B78F-7BAFB3911B00}|SecureUserManager.Tests\\SecureUserManager.Tests.csproj|solutionrelative:secureusermanager.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|S:\\SecurityUserManager\\securityusermanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|solutionrelative:securityusermanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8195E73-3FAA-4410-9F31-6782C63FAFA3}|SecurityUserManager\\SecurityUserManager.csproj|s:\\securityusermanager\\securityusermanager\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityUserManager",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\SecurityUserManager.csproj",
+              "RelativeDocumentMoniker": "SecurityUserManager\\SecurityUserManager.csproj",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\SecurityUserManager.csproj",
+              "RelativeToolTip": "SecurityUserManager\\SecurityUserManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T17:44:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecureUserManager.Tests",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "RelativeDocumentMoniker": "SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "ToolTip": "S:\\SecurityUserManager\\SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "RelativeToolTip": "SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T17:20:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureUserManager.Tests.csproj",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "RelativeDocumentMoniker": "SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "ToolTip": "S:\\SecurityUserManager\\SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "RelativeToolTip": "SecureUserManager.Tests\\SecureUserManager.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T17:32:40.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHelperTests.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecureUserManager.Tests\\PasswordHelperTests.cs",
+              "RelativeDocumentMoniker": "SecureUserManager.Tests\\PasswordHelperTests.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecureUserManager.Tests\\PasswordHelperTests.cs",
+              "RelativeToolTip": "SecureUserManager.Tests\\PasswordHelperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:41:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SecurityUserManager\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "SecurityUserManager\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:19:54.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "SecurityUserManager\\Models\\PasswordHelper.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\PasswordHelper.cs",
+              "RelativeToolTip": "SecurityUserManager\\Models\\PasswordHelper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:27:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecureUserManager.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SecureUserManager.Tests\\UnitTest1.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecureUserManager.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SecureUserManager.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:40:32.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SecurityUserManager\\Models\\User.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\User.cs",
+              "RelativeToolTip": "SecurityUserManager\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:27:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\Logger.cs",
+              "RelativeDocumentMoniker": "SecurityUserManager\\Models\\Logger.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\Models\\Logger.cs",
+              "RelativeToolTip": "SecurityUserManager\\Models\\Logger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:28:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\SecurityUserManager\\SecurityUserManager\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityUserManager\\Program.cs",
+              "ToolTip": "S:\\SecurityUserManager\\SecurityUserManager\\Program.cs",
+              "RelativeToolTip": "SecurityUserManager\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:25:53.485Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+@model List<ECommerceDemo.Models.CartItem>
+@{
+    Layout = "_Layout";
+    var total = (decimal)(ViewBag.Total ?? 0m);
+}
+<h3 class="mb-4">Your Cart</h3>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        Your cart is empty. <a href="@Url.Action("Index","Home")">Go shopping</a>.
+    </div>
+}
+else
+{
+<div class="row">
+    <div class="col-lg-8">
+        <div class="list-group">
+            @foreach (var item in Model)
+            {
+                <div class="list-group-item py-3">
+                    <div class="d-flex align-items-center">
+                        <img src="@item.ImageUrl" class="rounded me-3" style="width:90px;height:60px;object-fit:cover;" />
+                        <div class="flex-grow-1">
+                            <div class="fw-semibold">@item.Name</div>
+                            <div class="text-muted small">₹ @item.Price</div>
+                            <div class="d-flex align-items-center mt-2">
+                                <form class="me-2" asp-action="Decrement" asp-route-id="@item.ProductId" method="post">
+                                    <button class="btn btn-sm btn-outline-secondary">-</button>
+                                </form>
+                                <span class="px-2">@item.Quantity</span>
+                                <form class="ms-2" asp-action="Increment" asp-route-id="@item.ProductId" method="post">
+                                    <button class="btn btn-sm btn-outline-secondary">+</button>
+                                </form>
+                                <form class="ms-3" asp-action="Remove" asp-route-id="@item.ProductId" method="post">
+                                    <button class="btn btn-sm btn-outline-danger">Remove</button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="ms-3 text-end">
+                            <div class="fw-semibold">₹ @(item.Price * item.Quantity)</div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="mt-3">
+            <a class="btn btn-outline-secondary" href="@Url.Action("Index","Home")">Go to Home</a>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Summary</h5>
+                <div class="d-flex justify-content-between">
+                    <span>Subtotal</span><span>₹ @total</span>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <span>Shipping</span><span>₹ 0</span>
+                </div>
+                <hr />
+                <div class="d-flex justify-content-between fw-semibold">
+                    <span>Total</span><span>₹ @total</span>
+                </div>
+                <div class="d-grid mt-3">
+                    <a class="btn btn-success" href="@Url.Action("Index","Checkout")">Checkout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}

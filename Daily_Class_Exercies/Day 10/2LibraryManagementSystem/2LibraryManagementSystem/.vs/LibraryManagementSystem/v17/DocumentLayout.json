@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarycore\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|solutionrelative:librarycore\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D72BD3-7E3C-4F08-A61E-C56A9206154F}|LibraryTests\\LibraryTests.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D72BD3-7E3C-4F08-A61E-C56A9206154F}|LibraryTests\\LibraryTests.csproj|solutionrelative:librarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarycore\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|solutionrelative:librarycore\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A71D4C-B223-4E3A-AA3C-425FD32B62F3}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarymanagementsystem\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A71D4C-B223-4E3A-AA3C-425FD32B62F3}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarycore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|solutionrelative:librarycore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\librarymanagementsystem\\librarycore\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0A13EB-1383-46C5-8888-BEFE45AE6DC2}|LibraryCore\\LibraryCore.csproj|solutionrelative:librarycore\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryCore\\Book.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Book.cs",
+              "RelativeToolTip": "LibraryCore\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:42:32.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryCore\\Borrower.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Borrower.cs",
+              "RelativeToolTip": "LibraryCore\\Borrower.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:42:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryTests\\Test1.cs",
+              "RelativeDocumentMoniker": "LibraryTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryTests\\Test1.cs",
+              "RelativeToolTip": "LibraryTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:40:47.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryCore\\Library.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Library.cs",
+              "RelativeToolTip": "LibraryCore\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:43:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Class1.cs",
+              "RelativeDocumentMoniker": "LibraryCore\\Class1.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryCore\\Class1.cs",
+              "RelativeToolTip": "LibraryCore\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:38:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryManagementSystem\\Test1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Test1.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\LibraryManagementSystem\\LibraryManagementSystem\\Test1.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:36:30.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
